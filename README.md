@@ -1,4 +1,4 @@
-# SecretNumber
+# Game: Secret Number
 Jogo de adivinhação do número secreto utilizando o reconhecimento por voz, projeto desenvolvido com o Web Speech API. Para jogar, basta acessar o link abaixo e permitir o acesso ao microfone que é solicitado pelo navegador.
 
 Link de acesso: https://vercel.com/emillyperin/secret-number
